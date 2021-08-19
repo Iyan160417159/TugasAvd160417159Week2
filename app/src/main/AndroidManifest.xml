@@ -10,6 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Adv160417159Week2">
         <activity android:name=".MainActivity">
+
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
